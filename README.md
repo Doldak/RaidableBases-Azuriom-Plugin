@@ -1,5 +1,6 @@
 ## About RaidableBases Azuriom Plugin
 Azuriom RaidableBases Integration: Spotlight your Rust players' RaidableBases statistics on your website!
+![Logo](/titelbild.png)
 
 ## Description:
 The Azuriom RaidableBases Plugin effortlessly brings your players' RaidableBases statistics straight to your website. Showcase their impressive raid achievements in a sleek leaderboard, fostering community spirit.
